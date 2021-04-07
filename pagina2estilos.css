@@ -2,30 +2,13 @@ h1{
     font-size: 36px;
     color: #21B0DA;
     font-family: monospace;
-
 }
 
-footer{
-    background-color: gray;
-    
+a{
+    color: #5AD6F5;
 }
 
-.parrafo_footer{
-    color: white;
-}
-
-header{
-    border: 5px solid;
-
-
-}
-
-img{
-    width: 1208px;
-    height: 400px;
-}
-
-h4{
+h3{
     font-size: 25px;
     font-family: monospace;
     color: silver;
@@ -35,12 +18,10 @@ p{
     font-size: 18px;
     color: silver;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
 }
 
 body{
     background-color: #323637;
-}
-
-a{
-    color: #5AD6F5;
 }
