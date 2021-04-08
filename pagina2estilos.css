@@ -11,17 +11,12 @@ a{
 h3{
     font-size: 25px;
     font-family: monospace;
-    color: silver;
 }
 
 p{
     font-size: 18px;
-    color: silver;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
 
 }
 
-body{
-    background-color: #323637;
-}
